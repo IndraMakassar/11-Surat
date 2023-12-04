@@ -26,9 +26,11 @@ label scene1:
     
     "Aku kenapa dan aku ada dimana sekarang?"
 
+    show char ayah at left
     ayah "Ruki!"
 
     "Suara seseorang yang memanggilku menyadarkanku dari lamunan pertanyaan."
+    hide char ayah with Dissolve(5)
 
     ruki "Berhenti! siapa kalian, jangan mendekati ku!"
 
