@@ -6,7 +6,7 @@ Seorang perempuan terbangun dan tak mengingat apapun, harus hidup bersama seseor
 This game is build for [novejam-2023](https://itch.io/jam/novejam-2023)
 
 # Contributor
-- Antonius Indra Dharma Prasetya
-- Aron Wunarso
-- Jennifer Syallom C.
-- Daniel Alfairgo Avielto
+- Antonius Indra Dharma Prasetya (Programer)
+- Jennifer Syallom C. (Writer)
+- Aron Wunarso (Background artist)
+- Daniel Alfairgo Avielto (character designer)
